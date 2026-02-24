@@ -1,0 +1,19 @@
+house-price-prediction-ml/
+│
+├── data/
+│   └── house_prices.csv
+│
+├── notebooks/
+│   └── house_price_analysis.ipynb
+│
+├── images/
+│   ├── price_distribution.png
+│   ├── correlation_heatmap.png
+│   ├── price_vs_area.png
+│
+├── models/
+│   └── house_price_model.pkl
+│
+├── README.md
+├── requirements.txt
+└── app.py   (optional – if you build a simple app)
