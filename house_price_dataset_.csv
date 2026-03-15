@@ -1,4 +1,4 @@
-area_sqft,bedrooms,bathrooms,age_years,location_score,price
+Area_Sqft,Bedrooms,Bathrooms,Age_Years,Location_Score,Price
 1660,5,4,3,7,10079045
 2094,4,4,5,5,10860698
 1930,5,1,15,10,11030078
@@ -26,9 +26,9 @@ area_sqft,bedrooms,bathrooms,age_years,location_score,price
 1547,5,3,15,5,8550833
 1274,3,1,11,7,7469255
 1882,3,2,4,5,9827648
-3358,3,3,13,6,15564874
+3358,3,3,13,6,15566574
 2847,5,2,7,6,13946155
-1775,3,1,19,8,9401528
+1775,3,1,19,8,9409528
 2606,4,4,22,10,13898705
 989,5,3,2,9,7853254
 1362,4,1,10,5,7482062
